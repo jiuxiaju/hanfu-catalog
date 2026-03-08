@@ -1,0 +1,4 @@
+{
+  "envId": "{{env.ENV_ID}}",
+  "region": "ap-shanghai"
+}
